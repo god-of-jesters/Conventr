@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Conventor</string>
+    <string-array name="vals">
+        <item>USD</item>
+        <item>RUB</item>
+        <item>EUR</item>
+        <item>GPB</item>
+        <item>SEK</item>
+    </string-array>
+    <string-array name="crip">
+        <item>USD</item>
+        <item>RUB</item>
+        <item>EUR</item>
+        <item>GPB</item>
+        <item>SEK</item>
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>BNB</item>
+        <item>XRP</item>
+    </string-array>
+    <string name="calk">Посчитать</string>
+    <string name="valuta">USD</string>
+    <string name="est">0.0</string>
+    <string name="byd">Я получу</string>
+    <string name="Cripto">Конвертировать криптовалюту</string>
+    <string name="Wiat">Конвертировать деньги</string>
+</resources>
